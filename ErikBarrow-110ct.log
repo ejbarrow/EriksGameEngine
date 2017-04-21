@@ -1,0 +1,87 @@
+﻿  110ct.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+110ct.cpp(7): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+110ct.cpp(9): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+110ct.cpp(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+110ct.cpp(21): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  ebarrow.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(12): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+h:\cleanup\erikbarrow-110ct\ebarrow.h(147): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(148): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(149): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(150): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  games.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(12): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+h:\cleanup\erikbarrow-110ct\ebarrow.h(147): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(148): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(149): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(150): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+games.cpp(64): warning C4018: '<': signed/unsigned mismatch
+games.cpp(38): warning C4101: 'i': unreferenced local variable
+games.cpp(82): warning C4018: '<': signed/unsigned mismatch
+  game_pacman.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(12): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+h:\cleanup\erikbarrow-110ct\ebarrow.h(147): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(148): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(149): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(150): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+game_pacman.cpp(162): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+game_pacman.cpp(838): warning C4101: 'temp': unreferenced local variable
+  game_snake.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(12): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+h:\cleanup\erikbarrow-110ct\ebarrow.h(147): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(148): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(149): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(150): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+game_snake.cpp(54): warning C4996: 'getch': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getch. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(452): note: see declaration of 'getch'
+  main.cpp
+h:\cleanup\erikbarrow-110ct\110ct.h(18): warning C4996: 'kbhit': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _kbhit. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(458): note: see declaration of 'kbhit'
+h:\cleanup\erikbarrow-110ct\110ct.h(19): warning C4996: 'getche': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _getche. See online help for details.
+  C:\Program Files (x86)\Windows Kits\10\Include\10.0.10240.0\ucrt\conio.h(455): note: see declaration of 'getche'
+h:\cleanup\erikbarrow-110ct\110ct.h(80): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(12): warning C4005: '_WIN32_WINNT': macro redefinition
+  C:\Program Files (x86)\Windows Kits\8.1\Include\shared\sdkddkver.h(200): note: see previous definition of '_WIN32_WINNT'
+h:\cleanup\erikbarrow-110ct\ebarrow.h(147): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(148): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(149): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+h:\cleanup\erikbarrow-110ct\ebarrow.h(150): warning C4267: 'argument': conversion from 'size_t' to 'short', possible loss of data
+  Generating code
+  All 462 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  ErikBarrow-110ct.vcxproj -> H:\Cleanup\ErikBarrow-110ct\Release\ErikBarrow-110ct.exe
+  ErikBarrow-110ct.vcxproj -> H:\Cleanup\ErikBarrow-110ct\Release\ErikBarrow-110ct.pdb (Full PDB)
